@@ -1,0 +1,7 @@
+test line 1
+TEST line 2
+another line
+test pattern here
+hello world
+line with TEST in middle
+Line

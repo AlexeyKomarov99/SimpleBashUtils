@@ -1,0 +1,22 @@
+First normal line
+Second line with text
+
+
+
+Empty line above
+Line with	tabs	here
+    Line with leading spaces
+Line with trailing spaces:     
+Mixed    spaces	and	tabs
+
+
+
+
+
+Multiple empty lines above
+
+
+Back to normal after empties
+Line with special chars: 	
+Line with DEL:  here
+Last normal line

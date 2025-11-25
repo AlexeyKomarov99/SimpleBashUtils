@@ -1,0 +1,5 @@
+third file content
+TEST UPPERCASE
+test lowercase
+Mixed Test Case
+last line
